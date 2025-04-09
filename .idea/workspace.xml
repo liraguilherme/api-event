@@ -14,12 +14,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2vT4P5egWwql3UmwrvsJ0oYRHfy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,11 +28,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ApiApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/lirag/Downloads/api"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="ApiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eventostech.api.ApiApplication" />
+      <module name="api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eventostech.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApiApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
